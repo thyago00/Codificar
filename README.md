@@ -3,15 +3,27 @@ Para participar do processo seletivo eu escolhi resolver o exercício número 1.
 
 ## Ferramentas
 Para a realização do exercício eu utilizei as seguintes ferramentas:
-- Visual Studio Code - IDE para escrever o código.
-- Xampp - Para criação de um servidor local e poder executar o projeto.
+- Visual Studio Code - Editor de código.
+- Xampp - Para criação de um servidor local através do apache e o banco de dados através do mysql.
 - 000webHost - Hospedagem do site.
 
-E as linguagens utilizadas foram:
-- PHP - Deixar o código mais dinâmico e conectar ao banco de dados;
-- SQL - Utilizado para criar o banco;
+as linguagens utilizadas foram:
+- PHP - Realizar a busca dos dados, conectar com o banco de dados;
+- Javascript - Dinamizar o datatable e as mensagens do SweetAlert;
+- SQL - Utilizado para criar o banco.
+
+linguagem de marcação:
 - HTML5 - Criar as páginas;
-- CSS3 - Estilizar as páginas, deixando-as mais atrativas e fáceis de navegar. 
+
+folha de estilo:
+- CSS3 - Estilizar as páginas, utilizado em poucos momentos apenas para posicionar alguns elementos ou realizar alterações básicas.
+
+Frameworks/bibliotecas
+- Bootstrap - Utilizado para estilizar as páginas.
+- Datatable - Bibliotecas do datatable para a criação da tabela e demais alterações na mesma.
+- Jquery - dinamizar a tabela e para criação dos filtros.
+- SweetAlert - Retornar mensagens mais "intimistas" para o usuário após alguma ação.
+- FontAwesome - ícones para deixar o site mais intuitivo e facilitar a utilização pelo usuário.
 
 
 ## Modo de Funcionamento
@@ -32,20 +44,18 @@ O botão "Consulta Personalizada" irá redirecionar para uma outra página onde 
 Após inserir os filtros desejados, basta clicar em "Enviar" e será redirecionado para uma página com os dados no banco de dados.
 
 ## Necessidades de execução do projeto
-Para facilitar a correção do teste, o site foi hospedado no seguinte domínio
+Para facilitar a correção do teste, o site foi hospedado no seguinte link: 
 https://testethyago.000webhostapp.com/
 
-Para executar o projeto é de suma importância:
-- Extensão do php, html5 e css3;
-- Banco de dados;
+Para executar o projeto de forma local é de suma importância:
+- Extensão do php, html5 e css (utilizei a versão 7.4 do php);
+- Banco de dados (de preferência phpMyAdmin);
 - Ter o php em seu path de variáveis;
-- Um editor de texto ou uma IDE;
-- Um servidor para executar o projeto.
+- Um editor de texto ou uma IDE (de preferência o visual studio code);
+- O servidor apache para o host local.
 
 Os links para baixar tais ferramentas.
-
 [Xampp](https://www.apachefriends.org/pt_br/download.html)
-
 [Visual Studio Code](https://code.visualstudio.com/download)
 
-[Mysql Workbench](https://dev.mysql.com/downloads/workbench/)
+As demais bibliotecas/ferramentas já estão importadas no próprio código, não sendo necessário baixá-las ou realizar qualquer alteração.
