@@ -29,11 +29,11 @@ Frameworks/bibliotecas
 ## Modo de Funcionamento
 O projeto começa pelo arquivo "index.php", a partir dessa página que será possível pesquisar os dados inseridos anteriormente e realizar as outras ações envolvidas em um CRUD.
 
-exemplo:
+![index](https://user-images.githubusercontent.com/42790322/87993363-aa6ca580-cac0-11ea-891e-9e659c874e7a.PNG)
 
-![paginaInicial](https://user-images.githubusercontent.com/42790322/75305122-f2461400-5823-11ea-8f84-4c7ffcb6ad20.PNG)
+Essa é a tela principal do site. Nela é possível pesquisar os dados apresentados na tabela e através dos botões presentes na mesma é possível realizar as outras ações do CRUD.
 
-O botão "Enviar" tem o papel de inserir os dados informados no formulário para o banco de dados.
+O botão "Novo orçamento" é onde será cadastro os novos orçamentos.
 
 O botão "Consulta Padrão" irá redirecionar para uma outra página com todos os dados presentes no banco de dados.
 
