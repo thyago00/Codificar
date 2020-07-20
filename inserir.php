@@ -20,7 +20,6 @@ if (isset($_POST['salvar'])) {
     VALUES ('$nome', '$data', '$hora, '$vendedor', '$descricao', $valor);";
         
         //Verifica se a inserção ocorreu corretamente.
-        //Verifica se a edição foi realizada com sucesso.
     if (mysqli_query($conexao, $sql)) {
         echo '<script type="text/javascript">
         setTimeout(function() {
