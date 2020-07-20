@@ -27,18 +27,21 @@ Frameworks/bibliotecas
 
 
 ## Modo de Funcionamento
-O site é dividido em 3 páginas
+O site é dividido em 3 páginas principais para o usuário, nelas será possível realizar todas as ações necessárias para organizar os orçamentos da oficina.
 
 ![index](https://user-images.githubusercontent.com/42790322/87993363-aa6ca580-cac0-11ea-891e-9e659c874e7a.PNG)
 
 Essa é a tela principal do site. Nela é possível pesquisar os dados apresentados na tabela e através dos botões presentes na mesma é possível realizar as outras ações do CRUD.
 
 O botão "Novo orçamento" irá redirecionar para a pagina "cadastro.php", tela onde será realizado os cadastros de novos orçamentos.
+[cadastro](https://user-images.githubusercontent.com/42790322/87994046-69759080-cac2-11ea-9cc7-69103f55e9ae.PNG)
 
 O botão "Deletar" retornará uma mensagem para o usuário realizar o delete.
+![delete](https://user-images.githubusercontent.com/42790322/87994213-c83b0a00-cac2-11ea-9ea2-c851bb8c7317.PNG)
 
 O botão "Editar" irá redirecionar para a página "alterar.php", esta tela terá todos os dados do orçamento a ser alterado e o usuário terá livre acesso para editar qualquer informação presente.
-
+![editarp1](https://user-images.githubusercontent.com/42790322/87994192-beb1a200-cac2-11ea-8bce-75ecff09f2cb.PNG)
+![editarp2](https://user-images.githubusercontent.com/42790322/87994203-c5401980-cac2-11ea-97eb-0f22d6bb7b2c.PNG)
 
 
 O botão "Consulta Personalizada" irá redirecionar para uma outra página onde será inserido os filtros de pesquisa na consulta do banco de dados exigidos na ordem 3.1 do exercício.
