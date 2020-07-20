@@ -27,15 +27,19 @@ Frameworks/bibliotecas
 
 
 ## Modo de Funcionamento
-O projeto começa pelo arquivo "index.php", a partir dessa página que será possível pesquisar os dados inseridos anteriormente e realizar as outras ações envolvidas em um CRUD.
+O site é dividido em 3 páginas
 
 ![index](https://user-images.githubusercontent.com/42790322/87993363-aa6ca580-cac0-11ea-891e-9e659c874e7a.PNG)
 
 Essa é a tela principal do site. Nela é possível pesquisar os dados apresentados na tabela e através dos botões presentes na mesma é possível realizar as outras ações do CRUD.
 
-O botão "Novo orçamento" é onde será cadastro os novos orçamentos.
+O botão "Novo orçamento" irá redirecionar para a pagina "cadastro.php", tela onde será realizado os cadastros de novos orçamentos.
 
-O botão "Consulta Padrão" irá redirecionar para uma outra página com todos os dados presentes no banco de dados.
+O botão "Deletar" retornará uma mensagem para o usuário realizar o delete.
+
+O botão "Editar" irá redirecionar para a página "alterar.php", esta tela terá todos os dados do orçamento a ser alterado e o usuário terá livre acesso para editar qualquer informação presente.
+
+
 
 O botão "Consulta Personalizada" irá redirecionar para uma outra página onde será inserido os filtros de pesquisa na consulta do banco de dados exigidos na ordem 3.1 do exercício.
 
