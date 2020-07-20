@@ -1,5 +1,5 @@
 ## Descrição
-Para participar do processo seletivo eu escolhi resolver o exercício número 1. O objetivo do exercício é a criação de um CRUD para facilitar o manuseamento de dados uma oficina e o monitoramento de suas vendas.
+Para participar do processo seletivo eu escolhi resolver o exercício número 1. O objetivo do exercício é a criação de um CRUD para facilitar o manuseamento de dados uma oficina e o monitoramento de seus orçamentos.
 
 ## Ferramentas
 Para a realização do exercício eu utilizei as seguintes ferramentas:
@@ -43,12 +43,7 @@ O botão "Editar" irá redirecionar para a página "alterar.php", esta tela ter�
 ![editarp1](https://user-images.githubusercontent.com/42790322/87994192-beb1a200-cac2-11ea-8bce-75ecff09f2cb.PNG)
 ![editarp2](https://user-images.githubusercontent.com/42790322/87994203-c5401980-cac2-11ea-97eb-0f22d6bb7b2c.PNG)
 
-
-O botão "Consulta Personalizada" irá redirecionar para uma outra página onde será inserido os filtros de pesquisa na consulta do banco de dados exigidos na ordem 3.1 do exercício.
-
-![dadosPesquisa](https://user-images.githubusercontent.com/42790322/75305939-4e119c80-5826-11ea-9fde-bc0c50028bc8.PNG)
-
-Após inserir os filtros desejados, basta clicar em "Enviar" e será redirecionado para uma página com os dados no banco de dados.
+Para utilização do site deve-se utilizar os botões inseridos para realizar as ações e responder as mensagens de retorno para cada ação.
 
 ## Necessidades de execução do projeto
 Para facilitar a correção do teste, o site foi hospedado no seguinte link: 
