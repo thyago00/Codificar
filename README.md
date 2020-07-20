@@ -34,10 +34,10 @@ O site é dividido em 3 páginas principais para o usuário, nelas será possív
 Essa é a tela principal do site. Nela é possível pesquisar os dados apresentados na tabela e através dos botões presentes na mesma é possível realizar as outras ações do CRUD.
 
 O botão "Novo orçamento" irá redirecionar para a pagina "cadastro.php", tela onde será realizado os cadastros de novos orçamentos.
-[cadastro](https://user-images.githubusercontent.com/42790322/87994046-69759080-cac2-11ea-9cc7-69103f55e9ae.PNG)
+![cadastro](https://user-images.githubusercontent.com/42790322/87994046-69759080-cac2-11ea-9cc7-69103f55e9ae.PNG)
 
 O botão "Deletar" retornará uma mensagem para o usuário realizar o delete.
-![delete](https://user-images.githubusercontent.com/42790322/87994213-c83b0a00-cac2-11ea-9ea2-c851bb8c7317.PNG)
+![delete](https://user-images.githubusercontent.com/42790322/87994514-82327600-cac3-11ea-8cd7-43a3396993bb.PNG)
 
 O botão "Editar" irá redirecionar para a página "alterar.php", esta tela terá todos os dados do orçamento a ser alterado e o usuário terá livre acesso para editar qualquer informação presente.
 ![editarp1](https://user-images.githubusercontent.com/42790322/87994192-beb1a200-cac2-11ea-8bce-75ecff09f2cb.PNG)
