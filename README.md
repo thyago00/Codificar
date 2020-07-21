@@ -49,7 +49,7 @@ O botão "Editar" irá redirecionar para a página "alterar.php", esta tela ter�
 Para navegação do site é necessário utilizar os botões e filtros inseridos, para realizar as ações do CRUD, e responder as mensagens de retorno para cada ação.
 
 ## Necessidades de execução do projeto
-Para facilitar a correção do teste, o site foi hospedado no seguinte link: 
+Para facilitar a correção do teste, o site foi hospedado no seguinte link: <br>
 https://testethyago.000webhostapp.com/
 
 Para executar o projeto de forma local é de suma importância:
@@ -63,4 +63,5 @@ Os links para baixar tais ferramentas.
 - [Xampp](https://www.apachefriends.org/pt_br/download.html)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-As demais bibliotecas/ferramentas já estão importadas no próprio código, não sendo necessário baixá-las ou realizar qualquer alteração.
+As demais bibliotecas/ferramentas já estão importadas no próprio código, não sendo necessário baixá-las ou realizar qualquer alteração. <br>
+Para uma melhor visibilidade do site, recomendo utilizar o google chrome para testá-lo.
