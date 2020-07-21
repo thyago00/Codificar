@@ -1,5 +1,5 @@
 ## Descrição
-Para participar do processo seletivo eu escolhi resolver o exercício número 1. O objetivo do exercício é a criação de um CRUD para facilitar o manuseamento de dados de uma oficina e monitorar seus orçamentos.
+Para participar do processo seletivo eu escolhi resolver o exercício número 1. O objetivo do exercício é a criação de um CRUD para facilitar o manuseamento de dados de uma oficina e monitorar seus orçamentos que antes eram controlados por meio de papel e caneta, fazendo assim com que eles perdessem muitas vendas.
 
 ## Ferramentas
 Para a realização do exercício eu utilizei as seguintes ferramentas:
