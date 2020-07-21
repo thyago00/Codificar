@@ -46,9 +46,18 @@ O botão "Editar" irá redirecionar para a página "alterar.php", esta tela ter�
 ![editarp1](https://user-images.githubusercontent.com/42790322/87994192-beb1a200-cac2-11ea-8bce-75ecff09f2cb.PNG)
 ![editarp2](https://user-images.githubusercontent.com/42790322/87994203-c5401980-cac2-11ea-97eb-0f22d6bb7b2c.PNG)
 
+Além dessas páginas, existem outras files no projeto que não são vistas diretamente pelo usuário final, são elas:
+- Delete.php: Realizar a query para acontecer o delete no banco de dados e após isso retorna a mensagem com o SweetAlert.
+- Update.php: Realizar a query para acontecer a atualização no banco de dados e após isso retorna a mensagem com o SweetAlert.
+- Inserir.php: Realizar a query para acontecer o cadastro no banco de dados e após isso retorna a mensagem com o SweetAlert.
+- Conexao.php: Dados da conexão com o banco de dados.
+- Delete.js: File onde está a mensagem retornada após o delete.
+- Datatable.js: File onde a datatable é construida e alterada.
+- br.txt: Plug-in em forma de texto para deixar a datatable em português.
+
 Para navegação do site é necessário utilizar os botões e filtros inseridos, para realizar as ações do CRUD, e responder as mensagens de retorno para cada ação.
 
-## Necessidades de execução do projeto
+## Necessidades para execução do projeto
 Para facilitar a correção do teste, o site foi hospedado no seguinte link: <br>
 https://testethyago.000webhostapp.com/
 
