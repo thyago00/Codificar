@@ -11,13 +11,12 @@ include_once('conexao.php');
 if (isset($_POST['salvar'])) {
     $nome = $_POST['cliente'];
     $data = $_POST['data'];
-    $hora= $_POST['hora'];
     $vendedor = $_POST['vendedor'];
     $descricao = $_POST['descricao'];
     $valor = $_POST['valor'];
     
-        $sql = "INSERT INTO tb_cadastro (nome_cliente, dt_orcamento,hr_orcamento, vendedor, descricao, valor)
-    VALUES ('$nome', '$data', '$hora, '$vendedor', '$descricao', $valor);";
+        $sql = "INSERT INTO tb_cadastro (nome_cliente, dt_orcamento, vendedor, descricao, valor)
+    VALUES ('$nome', '$data', '$vendedor', '$descricao', $valor);";
         
         //Verifica se a inserção ocorreu corretamente.
     if (mysqli_query($conexao, $sql)) {
